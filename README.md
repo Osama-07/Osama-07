@@ -52,7 +52,7 @@ I’m always eager to learn, collaborate, and take on new challenges that help m
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -72,9 +72,3 @@ I’m always eager to learn, collaborate, and take on new challenges that help m
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
