@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm "Osama Abdulaziz".
+## <div align="center">Hi👋, I'm "Osama Abdulaziz".
 
 # Social🤳</div>  
   
@@ -25,7 +25,7 @@ I specialize in designing and developing RESTful APIs, working with relational d
 I have a solid foundation in C#, ADO.NET, and Entity Framework, and I enjoy writing clean, maintainable code.
 I’m always eager to learn, collaborate, and take on new challenges that help me grow as a developer.
 
-# [Portfolio](https://portfolio-osamas-projects-b75d1734.vercel.app/)🧠💀  
+# [Portfolio](https://portfolio-osamas-projects-b75d1734.vercel.app/)🧠💀
   
 
 <br/>  
